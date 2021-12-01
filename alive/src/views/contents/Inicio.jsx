@@ -1,10 +1,11 @@
 import React from "react"
+import './Inicio.css'
 
 const Inicio = props => (
     <div>
-        <h1>Alive Costuras</h1>
-        <br />
-        <h2>Esperamos que goste de nossa loja!</h2> 
+        <titulo className="titulo">Alive</titulo>
+        <br />  <br/>
+        <texto className="texto">Esperamos que goste de nossa loja!</texto> 
     </div>
 )
 

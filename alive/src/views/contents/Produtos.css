@@ -1,0 +1,15 @@
+.titulo {
+    font-weight: bold;
+    font-size: 5rem;
+    justify-content: center;
+    color: white;
+    padding: 400px;
+}
+
+.texto {
+    font-weight: bold;
+    font-size: 1.5rem;
+    justify-content: left;
+    color: black;
+    padding: 100px;
+}
