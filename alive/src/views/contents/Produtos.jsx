@@ -21,7 +21,16 @@ const Produtos = props => (
         <br/><br/>
         <texto className="texto">-Porta jaleco</texto>
         <br/><br/>
+        <img src="https://img.elo7.com.br/product/original/3B654D7/porta-jaleco-impermeavel-sintetico-personalizado-chevron-bolsa-sintetica.jpg"
+         with="200"
+          height="200"/>
+          <br/>
         <texto className="texto">-Fronha de cetim</texto>
+        <br/> <br/>
+        <img src="https://img.elo7.com.br/product/original/3AB39AB/fronha-de-cetim-rosa-claro-travesseiro.jpg"
+         with="200"
+          height="200"/>
+        
     </div>
 
 )
