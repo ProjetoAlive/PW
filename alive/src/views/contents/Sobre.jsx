@@ -4,7 +4,7 @@ import './Sobre.css'
 const Sobre = props => (
 
     <div>
-        <titulo className="titulo">Alive</titulo>
+        <titulo className="titulo">Sobre a Alive</titulo>
         <br/> <br/>
         <texto className="texto"> A Alive Costuras é uma empresa que tem como objetivo levar conforto,
              praticidade e encanto para nossas clientes.</texto>
